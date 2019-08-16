@@ -1,0 +1,17 @@
+img {
+  height: 140px;
+  margin: 10px;
+  float: left;
+}
+
+.btn {
+  border: 1px solid white;
+}
+
+.border {
+  text-align: center;
+}
+
+.text {
+  padding: 10px;
+}
